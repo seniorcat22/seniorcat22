@@ -4,7 +4,7 @@
 
 ## 🔥 Tech Stack & Expertise
 
-#### 💻 Programming Languages
+### 💻 Programming Languages
 - **GoLang**, **JavaScript (TypeScript, Node.js)**, **Python**, **SQL**
 
 ### 🛠️ Frameworks & Libraries
