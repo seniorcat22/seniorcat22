@@ -2,7 +2,7 @@
 
 🚀 With 7+ years of experience in architecting scalable, high-performance web applications, I specialize in designing robust, efficient, and secure solutions that drive business growth.
 
-## 🔥 Tech Stack & Expertise
+## 🔥 1. Tech Stack & Expertise
 
 ### 💻 Programming Languages 
 - **GoLang**, **JavaScript (TypeScript, Node.js)**, **Python**, **SQL**
@@ -19,7 +19,7 @@
 - Git, GitHub Actions, Bitbucket, VS Code, Postman, Jira
 - Performance Monitoring & Optimization
 
-## 💡 What I Do
+## 💡 2. What I Do
 
 ### 🌐 Frontend Engineering
 - Develop highly responsive, scalable, and SEO-optimized web applications.
@@ -35,7 +35,7 @@
 - Automate deployments with CI/CD pipelines, Docker, and Kubernetes.
 - Optimize system performance with monitoring, logging, and security best practices.
 
-## 🚀 Why Work With Me?
+## 🚀 3. Why Work With Me?
 - **Scalable Architecture:** I build systems that grow seamlessly with business demands.
 - **Efficiency & Performance:** Focused on high-performance, optimized solutions.
 - **Problem-Solving Mindset:** Passionate about tackling complex challenges with data-driven approaches.
