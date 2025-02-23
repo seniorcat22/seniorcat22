@@ -2,7 +2,7 @@
 
 🚀 With 7 years of experience in building scalable, high-performance web applications, I specialize in architecting robust solutions that drive business growth and efficiency.
 
-<h2 style="font-size:24px; color: #ff0000;">🔥 Tech Stack & Expertise</h2>
+## 🔥 Tech Stack & Expertise
 
 ### 💻 Programming Languages:
 - GoLang
