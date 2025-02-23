@@ -2,10 +2,10 @@
 
 🚀 With 7+ years of experience in architecting scalable, high-performance web applications, I specialize in designing robust, efficient, and secure solutions that drive business growth.
 
-## Bold 🔥 Tech Stack & Expertise
+## 🔥 Tech Stack & Expertise
 
-### 💻 Programming Languages
-##### - **GoLang**, **JavaScript (TypeScript, Node.js)**, **Python**, **SQL**
+### 💻 Programming Languages 
+- **GoLang**, **JavaScript (TypeScript, Node.js)**, **Python**, **SQL**
 
 ### 🛠️ Frameworks & Libraries
 - **Frontend:** React, Next.js, Vue.js, TailwindCSS, Material UI
