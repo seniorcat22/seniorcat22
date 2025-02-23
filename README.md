@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm a Senior Full-Stack Developer
 
-🚀 With years of experience in building scalable, high-performance web applications, I specialize in architecting robust solutions that drive business growth and efficiency.
+🚀 With 7 years of experience in building scalable, high-performance web applications, I specialize in architecting robust solutions that drive business growth and efficiency.
 
 ## 🔥 Tech Stack & Expertise
 
