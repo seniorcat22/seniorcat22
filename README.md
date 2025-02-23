@@ -5,7 +5,7 @@
 ## 🔥 Tech Stack & Expertise
 
 #### 💻 Programming Languages
-#####- **GoLang**, **JavaScript (TypeScript, Node.js)**, **Python**, **SQL**
+##### - **GoLang**, **JavaScript (TypeScript, Node.js)**, **Python**, **SQL**
 
 ### 🛠️ Frameworks & Libraries
 - **Frontend:** React, Next.js, Vue.js, TailwindCSS, Material UI
