@@ -4,10 +4,10 @@
 
 ## 🔥 Tech Stack & Expertise
 
-### 💻 Programming Languages
+#### 💻 Programming Languages
 - **GoLang**, **JavaScript (TypeScript, Node.js)**, **Python**, **SQL**
 
-### 🛠️ Frameworks & Libraries
+#### 🛠️ Frameworks & Libraries
 - **Frontend:** React, Next.js, Vue.js, TailwindCSS, Material UI
 - **Backend:** Express.js, NestJS, REST & GraphQL APIs
 
